@@ -201,12 +201,12 @@ Uma de duas vantagens é o armazenamento histórico de suas faturas, e impressã
 ## Conhecimento em:
 
 1. Java:
-  1.1. Web Servlet
-  1.2. Web Spring Framework
-    1.2.1. Spring Boot
-    1.2.2. Spring Security
-    1.2.3. Spring JPA
-  1.3. Web Thymeleaf
+1.1. Web Servlet\
+1.2. Web Spring Framework\
+1.2.1. Spring Boot\
+1.2.2. Spring Security\
+1.2.3. Spring JPA\
+1.3. Web Thymeleaf
 2. PostgreSQL
 3. HTML
 4. CSS
